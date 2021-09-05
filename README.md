@@ -1,4 +1,4 @@
-# algebraic-multigrid-.v.0.14
+# algebraic-multigrid- РУМБА v.0.14
 
 code realese: https://github.com/kirill7785/AliceFlow
 
