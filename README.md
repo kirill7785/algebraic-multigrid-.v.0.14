@@ -1,5 +1,7 @@
 # algebraic-multigrid-.v.0.14
 
+code realese: https://github.com/kirill7785/AliceFlow
+
 ## Classical Algebraic Multigrid Method (CAMG)
 
 The rate of convergence of many matrix inversion methods can be significantly increased by using a technique called "multigrid". The multigrid process involves performing early iterations on a fine grid, and later, iterations on nested more coarse “virtual” grids.
