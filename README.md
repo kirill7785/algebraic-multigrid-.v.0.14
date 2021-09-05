@@ -10,4 +10,4 @@ nvidia CUSP 0.5.1 smoothed aggregation amg memory usage comparison:
 
 ![alt text](https://github.com/kirill7785/algebraic-multigrid-method/blob/master/picture/RS2.png)
 
-![alt text](https://github.com/kirill7785/algebraic-multigrid-method/blob/master/picture/picPaper.png)
+
